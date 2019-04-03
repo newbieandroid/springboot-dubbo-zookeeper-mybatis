@@ -1,0 +1,4 @@
+GET http://localhost:8335/{%20/getName}
+
+###
+
